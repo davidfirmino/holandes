@@ -9,10 +9,19 @@ Esta pasta organiza os exercícios na ordem da sua estratégia:
 
 ## Como estudar
 
-- comece por [01-leitura.md](/home/davidfr/holandes/07-exercicios/01-leitura.md:1)
-- depois passe para [02-audicao.md](/home/davidfr/holandes/07-exercicios/02-audicao.md:1)
-- em seguida pratique [03-fala.md](/home/davidfr/holandes/07-exercicios/03-fala.md:1)
-- feche com [04-escrita.md](/home/davidfr/holandes/07-exercicios/04-escrita.md:1)
+- comece por [01-leitura.md](./01-leitura.md)
+- depois passe para [02-audicao.md](./02-audicao.md)
+- em seguida pratique [03-fala.md](./03-fala.md)
+- feche com [04-escrita.md](./04-escrita.md)
+
+## Como praticar comigo aqui no chat
+
+Você pode usar esta sequência:
+
+1. peça para eu escolher um exercício desta pasta
+2. responda sem olhar o gabarito
+3. peça correção detalhada em português com exemplos em holandês
+4. peça uma versão parecida com dificuldade um pouco maior
 
 ## Sugestão prática
 

@@ -9,6 +9,7 @@ Este repositório vai ser a nossa base para organizar seus estudos de holandês 
 - [01-plano-de-estudos/README.md](./01-plano-de-estudos/README.md)
 - [02-vocabulario/temas-do-dia-a-dia.md](./02-vocabulario/temas-do-dia-a-dia.md)
 - [02-vocabulario/alta-frequencia-a2.md](./02-vocabulario/alta-frequencia-a2.md)
+- [02-vocabulario/licoes-11-a-20-temas-a2.md](./02-vocabulario/licoes-11-a-20-temas-a2.md)
 - [03-gramatica/pontos-importantes-a2.md](./03-gramatica/pontos-importantes-a2.md)
 - [04-frases-uteis/conversacao-basica.md](./04-frases-uteis/conversacao-basica.md)
 - [05-escrita/modelos-de-texto.md](./05-escrita/modelos-de-texto.md)
@@ -19,6 +20,7 @@ Este repositório vai ser a nossa base para organizar seus estudos de holandês 
 - [07-exercicios/02-audicao.md](./07-exercicios/02-audicao.md)
 - [07-exercicios/03-fala.md](./07-exercicios/03-fala.md)
 - [07-exercicios/04-escrita.md](./07-exercicios/04-escrita.md)
+- [07-exercicios/05-simulado-leitura-a2-estilo-exame.md](./07-exercicios/05-simulado-leitura-a2-estilo-exame.md)
 
 ## Como usar
 
@@ -46,6 +48,25 @@ O arquivo [DUTCH_A2_MASTER_REVIEW.md](./DUTCH_A2_MASTER_REVIEW.md) é o seu mate
 - consolidar vocabulário de alta frequência
 - revisar contrastes importantes como `want` vs `omdat`
 - treinar leitura para o estilo do exame
+
+## Vocabulário por temas
+
+Além dos arquivos básicos de vocabulário, o arquivo [02-vocabulario/licoes-11-a-20-temas-a2.md](./02-vocabulario/licoes-11-a-20-temas-a2.md) consolida os capítulos mais temáticos do A2:
+
+- clima
+- transporte
+- animais
+- tempo e horários
+- esporte
+- lazer/restaurante/cultura
+- férias e viagem
+- natureza
+- cultura holandesa
+- política e regras
+
+## Exercícios e simulados
+
+O arquivo [07-exercicios/05-simulado-leitura-a2-estilo-exame.md](./07-exercicios/05-simulado-leitura-a2-estilo-exame.md) contém um simulado autoral de leitura A2 com 25 perguntas, inspirado no formato do exame.
 
 ## Foco do nível A2
 

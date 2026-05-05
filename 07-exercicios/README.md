@@ -14,6 +14,11 @@ Esta pasta organiza os exercícios na ordem da sua estratégia:
 - em seguida pratique [03-fala.md](./03-fala.md)
 - feche com [04-escrita.md](./04-escrita.md)
 
+## Simulados de leitura A2
+
+- [05-simulado-leitura-a2-estilo-exame.md](./05-simulado-leitura-a2-estilo-exame.md) — primeiro simulado autoral, mais simples, para aquecimento.
+- [06-lezen-a2-realistisch-examen-01.md](./06-lezen-a2-realistisch-examen-01.md) — simulado mais realista, com 25 telas/perguntas, inspirado no formato dos oefenexamens oficiais.
+
 ## Como praticar comigo aqui no chat
 
 Você pode usar esta sequência:
@@ -28,3 +33,5 @@ Você pode usar esta sequência:
 - repita leitura e audição mais vezes por semana
 - use fala para transformar frases passivas em respostas ativas
 - use escrita no final para consolidar vocabulário e estrutura
+- nos simulados de leitura, leia primeiro a pergunta e depois procure a informação no texto
+- marque seus erros por tipo: horário/data, negação, palavra desconhecida, alternativa quase certa, objetivo do texto ou conselho correto

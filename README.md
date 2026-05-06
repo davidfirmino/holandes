@@ -22,6 +22,7 @@ Este repositório vai ser a nossa base para organizar seus estudos de holandês 
 - [07-exercicios/04-escrita.md](./07-exercicios/04-escrita.md)
 - [07-exercicios/05-simulado-leitura-a2-estilo-exame.md](./07-exercicios/05-simulado-leitura-a2-estilo-exame.md)
 - [08-simulados-oficiais-governo/README.md](./08-simulados-oficiais-governo/README.md)
+- [09-vocabulario-centralizado-frases-a2/README.md](./09-vocabulario-centralizado-frases-a2/README.md)
 
 ## Como usar
 
@@ -64,6 +65,19 @@ Além dos arquivos básicos de vocabulário, o arquivo [02-vocabulario/licoes-11
 - natureza
 - cultura holandesa
 - política e regras
+
+## Vocabulário centralizado com frases A2
+
+A seção [09-vocabulario-centralizado-frases-a2](./09-vocabulario-centralizado-frases-a2/README.md) centraliza vocabulário essencial das lições 1 a 26 com frases A2 de exemplo.
+
+Ela contém:
+
+- vocabulário organizado por lições;
+- frases simples em holandês para cada palavra central;
+- tradução em português das frases;
+- foco em reconhecimento rápido para leitura A2.
+
+Use esta seção quando quiser revisar vocabulário do livro sem estudar palavras soltas.
 
 ## Simulados oficiais do governo
 

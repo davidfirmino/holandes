@@ -21,6 +21,7 @@ Este repositório vai ser a nossa base para organizar seus estudos de holandês 
 - [07-exercicios/03-fala.md](./07-exercicios/03-fala.md)
 - [07-exercicios/04-escrita.md](./07-exercicios/04-escrita.md)
 - [07-exercicios/05-simulado-leitura-a2-estilo-exame.md](./07-exercicios/05-simulado-leitura-a2-estilo-exame.md)
+- [08-simulados-oficiais-governo/README.md](./08-simulados-oficiais-governo/README.md)
 
 ## Como usar
 
@@ -64,9 +65,23 @@ Além dos arquivos básicos de vocabulário, o arquivo [02-vocabulario/licoes-11
 - cultura holandesa
 - política e regras
 
+## Simulados oficiais do governo
+
+A seção [08-simulados-oficiais-governo](./08-simulados-oficiais-governo/README.md) consolida o vocabulário e os padrões dos simulados oficiais/reais de leitura A2 do governo.
+
+Ela contém:
+
+- vocabulário completo por temas reais de prova;
+- padrões de leitura, gramática funcional e pegadinhas;
+- banco de 60 questões no estilo A2 com gabarito.
+
+Essa é a seção mais importante para leitura prática, porque usa temas muito próximos dos textos oficiais: trabalho, escola, saúde, transporte, serviços, eventos, horários, regras, inscrições e mudanças temporárias.
+
 ## Exercícios e simulados
 
 O arquivo [07-exercicios/05-simulado-leitura-a2-estilo-exame.md](./07-exercicios/05-simulado-leitura-a2-estilo-exame.md) contém um simulado autoral de leitura A2 com 25 perguntas, inspirado no formato do exame.
+
+Para treino mais próximo dos exemplos oficiais, use também o banco em [08-simulados-oficiais-governo/04-banco-de-questoes.md](./08-simulados-oficiais-governo/04-banco-de-questoes.md).
 
 ## Foco do nível A2
 

@@ -12,15 +12,17 @@ The main repository is written mostly in Portuguese because it was built for a B
 - [Vocabulary — Lessons 11 to 20, A2 Themes](./vocabulary/lessons-11-to-20-a2-themes.md)
 - [A2 Reading Exam-Style Simulation](./exercises/a2-reading-exam-style-simulation.md)
 - [Official Government Simulations — A2 Reading](./official-government-simulations/README.md)
+- [Centralized Vocabulary with A2 Sentences — Lessons 1 to 26](./centralized-vocabulary-a2-sentences/README.md)
 
 ## Recommended study order
 
 1. Start with the master review.
 2. Review high-frequency words and grammar patterns.
 3. Study one vocabulary theme at a time.
-4. Study the official government simulation vocabulary and traps.
-5. Do the reading simulations without checking the answer key.
-6. Review wrong answers and write down the trigger words you missed.
+4. Study the centralized vocabulary with A2 example sentences.
+5. Study the official government simulation vocabulary and traps.
+6. Do the reading simulations without checking the answer key.
+7. Review wrong answers and write down the trigger words you missed.
 
 ## Core exam goal
 
@@ -47,6 +49,19 @@ For A2 reading practice:
 3. Scan the text for the keyword or a synonym.
 4. Check numbers, times, dates, negation, and exception words.
 5. Choose the best answer, not the first familiar-looking answer.
+
+## Centralized vocabulary with A2 sentences
+
+The [Centralized Vocabulary with A2 Sentences](./centralized-vocabulary-a2-sentences/README.md) section gathers core vocabulary from lessons 1 to 26 and gives an A2-level example sentence for each central word.
+
+It includes:
+
+- vocabulary organized by lesson range;
+- Dutch A2 example sentences;
+- English translations for each sentence;
+- practical vocabulary for reading recognition.
+
+Use this section when you want to review book vocabulary without memorizing isolated words.
 
 ## Official government simulation focus
 

@@ -1,6 +1,7 @@
 # Micro-estudos no celular — Leitura A2
 
 **Criado em:** 2026-05-14  
+**Atualizado em:** 2026-05-14  
 **Objetivo:** estudar leitura A2 em blocos curtos de aproximadamente 15 minutos, sem precisar sentar no PC.
 
 Esta pasta foi feita para aqueles momentos em que você tem pouco tempo ou pouca energia:
@@ -30,6 +31,12 @@ A regra aqui é simples: **não precisa estudar perfeito; precisa manter contato
 4. [04-saude-e-afspraken.md](./04-saude-e-afspraken.md) — médico, dentista, consulta, remarcação e doença.
 5. [05-escola-bso-criancas.md](./05-escola-bso-criancas.md) — escola, BSO, atividades, reuniões e regras.
 6. [06-trabalho-ferias-rooster.md](./06-trabalho-ferias-rooster.md) — trabalho, férias, escala, troca de turno e comunicação.
+7. [07-wonen-huis-buurt.md](./07-wonen-huis-buurt.md) — casa, vizinhos, manutenção, lixo e bairro.
+8. [08-winkels-kopen-retourneren.md](./08-winkels-kopen-retourneren.md) — lojas, compras, promoções, troca e entrega.
+9. [09-eten-drinken-afspraken.md](./09-eten-drinken-afspraken.md) — restaurante, almoço no trabalho, café e combinações.
+10. [10-weer-kleding-plannen.md](./10-weer-kleding-plannen.md) — clima, roupas, planos alterados e atividades.
+11. [11-cursus-taalles-examen.md](./11-cursus-taalles-examen.md) — curso de holandês, aula, dever de casa e exame.
+12. [12-natuur-dieren-vrije-tijd.md](./12-natuur-dieren-vrije-tijd.md) — natureza, animais, biblioteca e tempo livre.
 
 ## Estratégia para prova A2
 
@@ -51,3 +58,9 @@ Quando estiver cansado, não tente traduzir palavra por palavra. Procure primeir
 - **Wanneer?** — quando?
 - **Waarom?** — por quê?
 - **Hoeveel?** — quanto(s)?
+
+## Sugestão prática
+
+Em dias bons, faça um arquivo inteiro.  
+Em dias ruins, faça só um microtexto.  
+O importante é não quebrar o contato com o idioma.

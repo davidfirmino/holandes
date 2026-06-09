@@ -9,6 +9,13 @@ A ideia é evitar decorar palavras soltas. No exame A2, você precisa reconhecer
 - [01-licoes-01-a-10.md](./01-licoes-01-a-10.md)
 - [02-licoes-11-a-20.md](./02-licoes-11-a-20.md)
 - [03-licoes-21-a-26.md](./03-licoes-21-a-26.md)
+- [04-consolidado-woordenlijst-licoes-01-a-24.md](./04-consolidado-woordenlijst-licoes-01-a-24.md)
+
+## Arquivo novo: consolidado 1 a 24
+
+O arquivo [04-consolidado-woordenlijst-licoes-01-a-24.md](./04-consolidado-woordenlijst-licoes-01-a-24.md) reúne o vocabulário de estudo das lições 1 a 24 em um único documento, separado por lição, com frases A2 para memorização.
+
+Use esse arquivo quando quiser revisar rapidamente a woordenlijst por lição sem precisar abrir vários documentos.
 
 ## Como estudar
 
